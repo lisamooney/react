@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from "react"
-import './App.css'
-import Die from './components/Die'
+import 'https://lisamooney.com/react/Tenzies/App.css'
+import Die from 'https://lisamooney.com/react/Tenzies/src/components/Die.jsx'
 import {nanoid} from 'nanoid'
 //nano id is a node package, no need to install just use the above import and call the function wherever you need a unique id
 import ConfettiDrop from './components/Confetti'
